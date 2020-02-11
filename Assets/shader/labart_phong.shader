@@ -1,7 +1,6 @@
 ﻿Shader "Unlit/labart_phong"
 {
-    Properties
-    {  
+    Properties{  
         //テクスチャマップ
         _MainTex ("Texture", 2D) = "White" {}
     }
